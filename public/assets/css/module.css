@@ -368,20 +368,21 @@ form ::-webkit-input-placeholder {
 
 			#main > section.dark {
 				color: #ddd;
-				color: rgba(255, 255, 255, 0.75);
+				color: #212529;
 			}
 
 				#main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
-					color: inherit;
+					color: #212529;
 				}
 
 				#main > section.dark strong {
-					color: #fff;
-					border-color: inherit;
+					color: #000000;
+					border-color: #212529;
+                    font-weight: bold;
 				}
 
 				#main > section.dark a {
-					color: #fff;
+					color: #212529;
 					border-color: inherit;
 				}
 
@@ -397,7 +398,7 @@ form ::-webkit-input-placeholder {
 
 			#main > section.one {
 				background-color: #67595E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/background.jpg");
 			}
 
 			#main > section.two {
