@@ -397,8 +397,8 @@ form ::-webkit-input-placeholder {
 			}
 
 			#main > section.one {
-				background-color: #67595E;
-				background-image: url("../../images/background.jpg");
+				/* background-color: #67595E; */
+				/* background-image: url("../../images/background.jpg"); */
 			}
 
 			#main > section.two {
